@@ -161,4 +161,5 @@ new Swiper('.gallery__slider', {
 [Swiper.js](https://swiperjs.com/) для создания слайдера на странице
 <br>
 [NVDA](https://nvda.ru/download) - инструмент для проверки страницы на доступность
+<br>
 [PerfectPixel](https://www.welldonecode.com/perfectpixel/)
