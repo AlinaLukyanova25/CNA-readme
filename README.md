@@ -21,7 +21,7 @@
 + Адаптивная верстка. Моя страница отображается красиво как на компьютере, так и на планшете или телефоне
   + Версия **desktop**
   
-  <img width="710px" alt="desktop" src="https://github.com/user-attachments/assets/2fca07be-3722-40c9-8ae0-c33afc7b911c"
+  <img width="710" alt="desktop" src="https://github.com/user-attachments/assets/2fca07be-3722-40c9-8ae0-c33afc7b911c"
   + Версия **mobile**
   
   ![mobile-320](https://github.com/user-attachments/assets/36d1bf29-88f9-4e8c-bbe0-1e62a1beef14)
