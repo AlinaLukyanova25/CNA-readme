@@ -25,7 +25,8 @@
 
   + Версия **mobile**
   
-  ![mobile-320](https://github.com/user-attachments/assets/36d1bf29-88f9-4e8c-bbe0-1e62a1beef14)
+  ![mobile-320](https://github.com/user-attachments/assets/cf2fc101-0f51-4dfa-94dd-d2f7a2ee7251)
+
 + PerfectPixel я использовала, чтобы сайт был в точности, как на макете
 + Для быстрой загрузки я отформатировала все изображения в формат `.webp`, а все svg-картинки хранятся в отдельном файле sprite.svg
 + В шапку сайта я добавила навигацию, с помощью которой можно удобно и быстро перемещаться по разделам
